@@ -26,12 +26,8 @@ class Cart extends Component {
                         return <EmptyCart />;
                        }
                    }}
-               </ProductConsumer>
-               
-               
+               </ProductConsumer>         
            </section>
-               
-          
         );
     }
 }
